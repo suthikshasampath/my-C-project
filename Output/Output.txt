@@ -1,0 +1,48 @@
+welcome to REPCO bank
+enter your 4 digit password:1234
+ correct password
+1.Withdraw
+2.Balance Enquiry
+3.Deposit
+4.Exit
+enter your choice 1
+enter your withdraw amount : 2500
+please collect your cash
+remaining balance is: 47500
+do you want to collect your receipt?
+1.yes
+2.no
+1
+collect your receipt.thank you
+1.Withdraw
+2.Balance Enquiry
+3.Deposit
+4.Exit
+enter your choice 2
+your updated balance is:47500
+do you want to collect your receipt?
+1.yes
+2.no
+2
+thank you
+1.Withdraw
+2.Balance Enquiry
+3.Deposit
+4.Exit
+enter your choice 3
+enter your deposit amount 5000
+amount deposit successfully
+your current balance is: 52500
+do you want to collect your receipt?
+1.yes
+2.no
+1
+collect your receipt.thank you
+1.Withdraw
+2.Balance Enquiry
+3.Deposit
+4.Exit
+enter your choice 4
+thank you
+
+--------------------------------
